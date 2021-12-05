@@ -1,5 +1,22 @@
 .section {
+    padding: 10rem;
     display: flex;
     justify-content: space-between;
-    padding: 20rem;
+
+}
+
+h2{
+    padding-left: 50px;
+    margin-top: 150px;
+}
+
+h3{
+    margin-top: 50px;
+    padding-left: 50px;
+    color: darkgreen;
+}
+
+
+img{
+    width: 800px;
 }
